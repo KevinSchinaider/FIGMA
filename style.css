@@ -1,0 +1,87 @@
+.l1{
+    position: absolute;
+width: 55px;
+height: 24px;
+left: 800px;
+top: 496px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #ffff;
+
+}
+
+.s1{
+    position: absolute;
+width: 62px;
+height: 24px;
+left: 800px;
+top: 586px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #ffff;
+
+}
+
+.c1{
+    position: absolute;
+width: 270px;
+height: 34px;
+left: 800px;
+top: 520px;
+
+background:  rgba(143, 255, 1, 0.53);
+}
+
+.c2{
+    position: absolute;
+width: 270px;
+height: 34px;
+left: 800px;
+top: 610px;
+
+background:  rgba(143, 255, 1, 0.53);
+}
+
+.b2{
+    position: absolute;
+    width: 131px;
+    height: 34px;
+    left: 800px;
+    top: 673px;
+    
+    background: #A8FF38;
+}
+
+.b1{position: absolute;
+    width: 131px;
+    height: 34px;
+    left: 950px;
+    top: 673px;
+    
+    background: #A8FF38;
+}
+
+body{
+   background-size: cover;
+   background-image: url("https://images6.alphacoders.com/922/thumb-1920-922275.png");
+}
+
+.imagem{
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    left: 666px;
+    top: 74px;
+    
+    background: url(ilumi\ -\ Copia.png);
+}
